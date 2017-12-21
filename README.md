@@ -21,7 +21,7 @@
 
 > 采用磁盘安装的方式，线上审核时间比较久，所以暂时不开放.
 
-1. 下载[插件包](./NEJPlugin.zip)
+1. 下载[插件包](https://g.hz.netease.com//hzwangdong5/NEJPlugin/raw/master/NEJPlugin.zip)
 2. `Plugins`选择`Install plugin from disk...`选择下载的插件包 
 
 ## 路径变量配置
