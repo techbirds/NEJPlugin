@@ -46,8 +46,8 @@
 
 ## 反馈
 
-> 使用上如果有任何疑问或者建议，可以直接`popo`戳我.
-联系方式: hzwangdong5@corp.netease.com
+> 使用上如果有任何疑问或者建议，可以直接`popo`(wangdong5)戳我.
+联系方式: itechbirds@gmail.com
 
 ## 感谢
 
